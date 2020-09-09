@@ -1,0 +1,1 @@
+This is the example, created due to learning of Git.
